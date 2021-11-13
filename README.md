@@ -1,6 +1,6 @@
 # Projeto Final Integrador
 
-Repositório principal para o Projeto Final Integrador do SENAC
+Repositório principal para o Projeto Final Integrador do SENAC. O objetivo deste repositório é apresentar aos alunos os requisitos mínimos para o projeto. Aqui também serão mantidos exemplos de alguns dos arquivos necessários a construcão do projeto, além de outros repositórios demonstrando alguns exemplos de implementações com as tecnologias propostas. Esses exemplos devem servir apenas como base para o desenvolvimento, o objetivo é construir exemplos para referência para que os alunos possam usá-los como ponto de partida ou para dirimir eventuais dúvidas de implementação de alguns recursos.
 
 ## TEMA: Um site/aplicativo que implemente uma loja virtual (de produtos ou serviços)
 <b>Projeto individual</b>
