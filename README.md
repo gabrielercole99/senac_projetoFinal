@@ -13,6 +13,7 @@ Deverão estar no repositório os seguintes itens:
 -  Diagrama de classes
 -  Projeto (com todos os arquivos necessários para o seu funcionamento)
 -  Scripts do banco dados contendo a criação do banco e uma carga inicial para testes
+-  Arquivo readme com orientações para execução do projeto (criacão do ambiente, inicialização do projeto, etc.)
 
 Requisitos mínimos:
 
