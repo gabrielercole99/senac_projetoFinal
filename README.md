@@ -5,7 +5,7 @@ Repositório principal para o Projeto Final Integrador do SENAC. O objetivo dest
 ## TEMA: Site de vagas de emprego
 Caso o projeto seja realizado em um grupo apenas (para toda a turma), deve ser construido um site para divulgação de vagas de emprego. O site deve ter uma opção de assinatura. O assinante terá acesso a detalhes da vaga anunciada, enquanto que os usuários sem uma assinatura poderão apenas ver detalhes básicos da vaga.
 
-## TEMA LIVRE
+## TEMA: LIVRE
 <b>Para projetos individuais o tema é livre, desde que o projeto atenda aos requisitos mínimos listados abaixo</b>
 
 Entrega do projeto: o aluno deverá manter o seu projeto em um (ou mais) repositório(s) no github e compartilhar o seu endereço.
