@@ -18,7 +18,7 @@ Deverão estar no repositório os seguintes itens:
 -  Scripts do banco dados contendo a criação do banco e uma carga inicial para testes
 -  Arquivo readme com orientações para execução do projeto (criacão do ambiente, inicialização do projeto, etc.)
 
-Requisitos mínimos:
+<b>Requisitos mínimos:</b>
 
 - Carrinho de compras
 - Cadastro
