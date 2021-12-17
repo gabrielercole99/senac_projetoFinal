@@ -37,3 +37,11 @@ O frontend pode ser desenvolvido em qualquer uma das seguintes tecnologias:
 - Java
 - Ionic
 - Angular/Typescript
+
+## Links para repositórios com exemplos de implementações nas tecnologias citadas acima:
+
+| EXEMPLO                                 | DESCRIÇÃO                                          |
+|:---------------------------------------:|:--------------------------------------------------:|
+| Java (Web + MySQL)                      | https://github.com/fabianomoreira/senac_appJavaWeb |
+| PHP (Web + MySQL + Carrinho de Compras) | https://github.com/fabianomoreira/senac_appLojaPHP |
+| Ionic (Mobile + REST)                   | https://github.com/fabianomoreira/senac_appMobile  |
