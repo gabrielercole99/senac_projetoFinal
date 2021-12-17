@@ -1,0 +1,15 @@
+# Eclipse
+#######################
+.classpath
+.project
+.metadata
+.settings/
+build/
+
+# Java
+#######################
+*.class
+
+# Mac
+#######################
+.DS_Store
